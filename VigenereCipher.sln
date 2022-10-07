@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipher", "VigenereCipher\VigenereCipher.csproj", "{9D1C49BB-8E17-4C91-959E-D8B295476700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipherTests", "VigenereCipherTests\VigenereCipherTests.csproj", "{3DA03B26-BC2B-430B-9EE5-CC74813B4EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D1C49BB-8E17-4C91-959E-D8B295476700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1C49BB-8E17-4C91-959E-D8B295476700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1C49BB-8E17-4C91-959E-D8B295476700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1C49BB-8E17-4C91-959E-D8B295476700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA03B26-BC2B-430B-9EE5-CC74813B4EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA03B26-BC2B-430B-9EE5-CC74813B4EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA03B26-BC2B-430B-9EE5-CC74813B4EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA03B26-BC2B-430B-9EE5-CC74813B4EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
